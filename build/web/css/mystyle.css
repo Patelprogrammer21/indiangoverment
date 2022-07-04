@@ -1,0 +1,29 @@
+
+#marq{
+    color:red;
+    background-color: white;
+}
+.c2{
+    background-color: grey;
+}
+.nav-item{
+    display:inline-flex;
+    display: inline-block;
+}
+.navbar-nav mr-auto{
+    display:inline;
+    width:100px;
+    height:100px;
+}
+input{
+    width:50px;
+    border:none;
+    background: none;
+    color: #919191;
+    font-size: 30px;
+    margin:0 10px;
+    pointer-events:none;
+}
+.c1{
+    background-color: blue;
+}
